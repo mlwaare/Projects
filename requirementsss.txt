@@ -1,0 +1,13 @@
+requests 
+
+discord.py-self
+
+PyNaCl
+
+opuslib
+
+websockets
+
+PyOgg
+
+ffmpeg-python
